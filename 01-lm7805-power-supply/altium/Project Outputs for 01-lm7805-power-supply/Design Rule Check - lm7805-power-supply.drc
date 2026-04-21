@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Projects\altium-learning-path\01-lm7805-power-supply\altium\lm7805-power-supply.PcbDoc
 Date     : 21.04.2026
-Time     : 13:15:35
+Time     : 14:20:43
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
