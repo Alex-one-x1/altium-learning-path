@@ -1,20 +1,21 @@
 # 01 — LM7805 Power Supply
 
-Simple 5V / 1.5A linear voltage regulator board.
+Simple 5V / 1A linear voltage regulator board.
 
 ## Description
 
 Fixed 5V output from 7–35V input using LM7805 linear regulator.
-LED power indicator on output. Designed as a learning project.
+LED power indicator on output. First learning project.
 
 **Specifications:**
 - Input voltage: 7–35V DC
 - Output voltage: 5V DC (fixed)
-- Max output current: 1.5A
+- Max output current: 1A
 - LED indicator current: ~6 mA
+- PCB size: 50 × 30 mm, 2 layers
 
 **Key components:**
-- U1: LM7805 — 5V linear regulator (TO-220)
+- U1: LM7805MPX — 5V linear regulator (SOT-223)
 - C1: 0.33 µF — input bypass capacitor
 - C2: 0.1 µF — output bypass capacitor
 - R1: 470 Ohm — LED current limiting resistor
@@ -26,13 +27,30 @@ LED power indicator on output. Designed as a learning project.
 
 ![Schematic](./docs/schematic-preview.png)
 
-**LED current:** I = (5V - 2V) / 470R = ~6 mA
+**LED current calculation:**
+I = (5V - 2V) / 470R = ~6 mA
+
+## PCB
+
+![PCB Top View](./docs/pcb-routed.png)
+![PCB 3D View](./docs/pcb-3d.png)
+
+**PCB manufactured at:** JLCPCB / PCBWay (files ready)
+
+## Files
+
+| File | Description |
+|---|---|
+| `altium/` | Altium Designer project files |
+| `gerber/gerber-lm7805.zip` | Production-ready Gerber files |
+| `bom/bom-lm7805.csv` | Bill of Materials |
 
 ## Status
 
-- [x] LED circuit schematic (Day 4)
-- [x] Full LM7805 schematic (Day 5)
-- [x] PCB created, components placed (Day 6)
-- [x] PCB routing complete (Day 7)
-- [ ] Gerber files
-- [ ] BOM
+- [x] Schematic — LED circuit
+- [x] Schematic — LM7805 with bypass caps
+- [x] PCB layout — components placed
+- [x] PCB routing — all nets connected
+- [x] DRC passed — no violations
+- [x] Gerber files generated
+- [x] BOM exported

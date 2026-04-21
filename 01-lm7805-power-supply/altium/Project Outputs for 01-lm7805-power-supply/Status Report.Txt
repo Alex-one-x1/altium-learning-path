@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [01-lm7805-power-supply.PrjPcb]
+   Generated File[lm7805-power-supply.TXT]
+   Generated File[lm7805-power-supply.DRL]
+   Generated File[lm7805-power-supply.LDP]
+   Generated File[lm7805-power-supply.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:06:58 On 21.04.2026

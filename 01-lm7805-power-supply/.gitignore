@@ -1,0 +1,12 @@
+# Altium Designer - служебные папки
+History/
+**/History/
+
+Project Logs*/
+**/Project Logs*/
+
+# Altium временные файлы
+*.Rpt
+*.Log
+*.html
+__Previews/
