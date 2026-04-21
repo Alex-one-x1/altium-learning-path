@@ -31,7 +31,8 @@ LED power indicator on output. Designed as a learning project.
 ## Status
 
 - [x] LED circuit schematic (Day 4)
-- [x] Full LM7805 schematic with bypass caps (Day 5)
-- [ ] PCB layout
+- [x] Full LM7805 schematic (Day 5)
+- [x] PCB created, components placed (Day 6)
+- [ ] PCB routing (dорожки)
 - [ ] Gerber files
 - [ ] BOM
