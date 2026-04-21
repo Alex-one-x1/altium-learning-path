@@ -1,28 +1,37 @@
 # 01 — LM7805 Power Supply
 
-Simple 5V linear voltage regulator board.
+Simple 5V / 1.5A linear voltage regulator board.
 
 ## Description
 
-Learning project. Fixed 5V output, LED power indicator.
+Fixed 5V output from 7–35V input using LM7805 linear regulator.
+LED power indicator on output. Designed as a learning project.
+
+**Specifications:**
+- Input voltage: 7–35V DC
+- Output voltage: 5V DC (fixed)
+- Max output current: 1.5A
+- LED indicator current: ~6 mA
 
 **Key components:**
-- LM7805 — 5V linear regulator (TO-220)
-- Input capacitor: 0.33 µF
-- Output capacitor: 0.1 µF
-- LED indicator + 470 Ohm resistor
+- U1: LM7805 — 5V linear regulator (TO-220)
+- C1: 0.33 µF — input bypass capacitor
+- C2: 0.1 µF — output bypass capacitor
+- R1: 470 Ohm — LED current limiting resistor
+- D1: LED — power indicator
+- J1: 2-pin connector — power input 9V
+- J2: 2-pin connector — power output 5V
 
 ## Schematic
 
 ![Schematic](./docs/schematic-preview.png)
 
-**LED current calculation:**
-I = (9V - 2V) / 470 Ohm = ~15 mA
+**LED current:** I = (5V - 2V) / 470R = ~6 mA
 
 ## Status
 
 - [x] LED circuit schematic (Day 4)
-- [ ] Full LM7805 schematic
+- [x] Full LM7805 schematic with bypass caps (Day 5)
 - [ ] PCB layout
 - [ ] Gerber files
 - [ ] BOM
