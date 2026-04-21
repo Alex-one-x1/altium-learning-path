@@ -33,6 +33,6 @@ LED power indicator on output. Designed as a learning project.
 - [x] LED circuit schematic (Day 4)
 - [x] Full LM7805 schematic (Day 5)
 - [x] PCB created, components placed (Day 6)
-- [ ] PCB routing (dорожки)
+- [x] PCB routing complete (Day 7)
 - [ ] Gerber files
 - [ ] BOM
