@@ -43,7 +43,7 @@ I = (5V - 2V) / 470R = ~6 mA
 |---|---|
 | `altium/` | Altium Designer project files |
 | `gerber/gerber-lm7805.zip` | Production-ready Gerber files |
-| `bom/bom-lm7805.csv` | Bill of Materials |
+| `bom/bom-lm7805.csv and bom/bom-lm7805.xlsx` | Bill of Materials |
 
 ## Status
 
