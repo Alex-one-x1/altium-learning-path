@@ -14,7 +14,7 @@ Protection diodes per datasheet recommendation.
 - Adjustment: 2.2k potentiometer
 
 **Formula:**
-Vout = 1.25 × (1 + R2/R1), where R1 = 220 Ohm
+Vout = 1.25 × (1 + R2/R1), where R1 = 240 Ohm
 
 ## Schematic
 
