@@ -169,74 +169,78 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for 02-lm317-adjustable\Design Rule Check - lm317-adjustable.html
+DocumentPath=..\bom\bom-lm317.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.DRL
+DocumentPath=Project Outputs for 02-lm317-adjustable\Design Rule Check - lm317-adjustable.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.DRR
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.EXTREP
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GBL
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GBS
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GD1
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GG1
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GM1
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GM10
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GM15
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GTL
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GTO
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GTP
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GTS
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.LDP
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.REP
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for 02-lm317-adjustable\lm317-adjustable.TXT
 DItemRevisionGUID=
 
@@ -614,6 +618,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Designator=120|Comment=120|Footprint=120|Description=229|LibRef=181|Quantity=120
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Designator=120|Comment=120|Footprint=120|Description=229|LibRef=181|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
