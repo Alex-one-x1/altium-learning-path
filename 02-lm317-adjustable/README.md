@@ -25,6 +25,8 @@ Vout = 1.25 × (1 + R2/R1), where R1 = 240 Ohm
 - [x] Custom LM317 schematic symbol (Day 9)
 - [x] Custom TO-220 footprint (Day 9)
 - [x] Schematic complete (Day 9)
-- [ ] PCB layout
+- [x] PCB layout — components placed (Day 10)
+- [x] PCB routing complete (Day 10)
+- [x] DRC passed (Day 10)
 - [ ] Gerber files
 - [ ] BOM
