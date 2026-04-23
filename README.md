@@ -18,9 +18,9 @@ professional PCB design and embedded firmware development.
 
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
-| 01 | [LM7805 Power Supply](./01-lm7805-power-supply/) | Simple 5V linear PSU | Finished |
-| 02 | [LM317 Adjustable PSU](./02-lm317-adjustable/) | 1.25–15V adjustable PSU | In progress |
-| 03 | [USB-UART Adapter](./03-usb-uart-ch340g/) | CH340G based USB-UART | Planned |
+| 01 | [LM7805 Power Supply](./01-lm7805-power-supply/) | Simple 5V linear PSU | ✅ Complete |
+| 02 | [LM317 Adjustable PSU](./02-lm317-adjustable/) | 1.25–15V adjustable PSU | ✅ Complete |
+| 03 | [USB-UART Adapter](./03-usb-uart-ch340g/) | CH340G based USB-UART | 🔄 In progress |
 | 04 | [STM32 Minimum System](./04-stm32-minsys/) | STM32F103 dev board | Planned |
 | 05 | [IoT LoRa Node](./05-iot-lora-node/) | Low-power sensor + LoRaWAN | Planned |
 | 06 | [EV Monitor Module](./06-ev-monitor-module/) | CAN + Modbus + relay outputs | Planned |

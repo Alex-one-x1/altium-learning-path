@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [02-lm317-adjustable.PrjPcb]
+   Generated File[lm317-adjustable.TXT]
+   Generated File[lm317-adjustable.DRL]
+   Generated File[lm317-adjustable.LDP]
+   Generated File[lm317-adjustable.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:27:46 On 23.04.2026
