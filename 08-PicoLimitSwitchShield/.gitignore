@@ -1,0 +1,20 @@
+# Altium temp & backup
+History/
+Project Outputs*/
+__Previews/
+*.PrjPcbStructure
+*.~*
+*.DsnWrk
+*.bak*
+*.PcbDoc.htm
+*.SchDoc.htm
+*.Backup
+*.PrjPcbStructure
+
+# Altium build output (регенерируется)
+02_Output/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
