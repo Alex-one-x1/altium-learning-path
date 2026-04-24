@@ -25,7 +25,7 @@ professional PCB design and embedded firmware development.
 | 05 | [IoT LoRa Node](./05-iot-lora-node/) | Low-power sensor + LoRaWAN | Planned |
 | 06 | [EV Monitor Module](./06-ev-monitor-module/) | CAN + Modbus + relay outputs | Planned |
 | 07 | [EV Charger Controller](./07-ev-charger-controller/) | IEC 61851 EVSE controller | Planned |
-| 08 | [Pico Shield](./08-PicoLimitSwitchShield/) | Pico + battery + end caps | 🔄 In progress |
+| 08 | [Pico Shield](./08-Pico-Limit-Switch-Shield/) | Pico + battery + end caps | 🔄 In progress |
 
 ---
 
